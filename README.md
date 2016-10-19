@@ -1,3 +1,5 @@
+Create a js file.
+
 Aliens are invading! There are blue, green, and red aliens. 
 
 The total amount of aliens there are is 10,000. 
